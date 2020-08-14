@@ -26,8 +26,23 @@ We fetched over one hundred thousand data containing ten categories from open go
 * Javascript / PHP / HTML / CSS
 
 
-## How to Use
+## Screenshots
+* Home Page
+<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/home.png" width="250">
 
+* Single electric appliance recommendation
+<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/single.png" width="250">
+
+* Combinational electric appliance recommendation
+<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/combination.png" width="250">
+
+* Electricity fee calculation form
+<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/form.png" width="250">
+
+* Fee calculation result in three different kinds of chart
+<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/fee_piechart.png" width="250">
+<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/fee_bar.png" width="250">
+<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/fee_annual.png" width="250">
 
 ## Team
 Made by Faustine Chen, Jamie Su, Amy Lee and me :1
