@@ -2,6 +2,9 @@
 This is a recommendation system helping you not only get the most suitable electric appliance but also calculate electricity fee depending on different users’ needs.
 We fetched over one hundred thousand data containing ten categories from open government data.
 
+## Introduction Video
+<a href="https://www.youtube.com/watch?v=r_pehYJlQKo"><img src="https://www.youtube.com/watch?v=r_pehYJlQKo/0.jpg" alt="IMAGE ALT TEXT"></a>
+
 
 ## Installation
 * XAMPP
