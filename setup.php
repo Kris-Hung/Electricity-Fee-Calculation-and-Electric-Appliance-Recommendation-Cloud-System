@@ -315,66 +315,66 @@ else{
 		  <!-- Wrapper for slides -->
 		  <div class='carousel-inner' role='listbox'>
 			<div class='item active'>
-			   <a href='https://24h.pchome.com.tw/prod/DPAF62-19008RXDU'><img src='01.jpg' width='500' height='700'></a>
+			   <a href='https://24h.pchome.com.tw/prod/DPAF62-19008RXDU'><img src='pic/01.jpg' width='500' height='700'></a>
 			  <div class='carousel-caption'>
 				</div>
 			</div>
 			<div class='item'>
-			   <a href='https://24h.pchome.com.tw/prod/DPAC95-A9008EKKF'><img src='02.jpg' width='500' height='700'></a>
+			   <a href='https://24h.pchome.com.tw/prod/DPAC95-A9008EKKF'><img src='pic/02.jpg' width='500' height='700'></a>
 			  <div class='carousel-caption'>
 				</div>
 			</div>
 			<div class='item'>
-			  <a href='https://24h.pchome.com.tw/prod/DPADEW-A9008ZW7Y'><img src='03.jpg' width='500' height='700'></a>
+			  <a href='https://24h.pchome.com.tw/prod/DPADEW-A9008ZW7Y'><img src='pic/03.jpg' width='500' height='700'></a>
 			  <div class='carousel-caption'>
 				
 			  </div>
 			</div>
 			
 			<div class='item'>
-			   <a href='https://24h.pchome.com.tw/prod/DMAU00-19007KLHL?q=/S/DMAU00'><img src='04.jpg' width='500' height='700'></a>
+			   <a href='https://24h.pchome.com.tw/prod/DMAU00-19007KLHL?q=/S/DMAU00'><img src='pic/04.jpg' width='500' height='700'></a>
 			  <div class='carousel-caption'>
 				</div>
 			</div>
 			
 			<div class='item'>
-			   <a href='https://24h.pchome.com.tw/prod/DPAI1M-A90080NUS'><img src='05.jpg' width='500' height='700'></a>
+			   <a href='https://24h.pchome.com.tw/prod/DPAI1M-A90080NUS'><img src='pic/05.jpg' width='500' height='700'></a>
 			  <div class='carousel-caption'>
 				</div>
 			</div>
 			
 			<div class='item'>
-			  <a href='https://24h.pchome.com.tw/store/DMBI11'><img src='06.jpg' width='500' height='700'></a>
+			  <a href='https://24h.pchome.com.tw/store/DMBI11'><img src='pic/06.jpg' width='500' height='700'></a>
 			  <div class='carousel-caption'>
 			</div>
 			</div>
 			<div class='item'>
-			  <a href='http://www.elifemall.com.tw/allnewweb/product_d.php?skuno=2079823&scheduleno=20180628-20180705-1&showlist=Y&page='><img src='09.jpg' width='500' height='700'></a>
+			  <a href='http://www.elifemall.com.tw/allnewweb/product_d.php?skuno=2079823&scheduleno=20180628-20180705-1&showlist=Y&page='><img src='pic/09.jpg' width='500' height='700'></a>
 			  <div class='carousel-caption'>
 			  </div>
 			</div>
 			<div class='item'>
-			   <a href='http://www.elifemall.com.tw/allnewweb/product_d.php?skuno=2091039&scheduleno=20180628-20180705-1&showlist=Y&page='><img src='08.jpg' width='500' height='700'></a>
+			   <a href='http://www.elifemall.com.tw/allnewweb/product_d.php?skuno=2091039&scheduleno=20180628-20180705-1&showlist=Y&page='><img src='pic/08.jpg' width='500' height='700'></a>
 			  <div class='carousel-caption'>
 				</div>
 			</div>
 			<div class='item'>
-			  <a href='http://www.elifemall.com.tw/allnewweb/product_d.php?skuno=2091286&scheduleno=20180628-20180705-1&showlist=Y&page='><img src='07.jpg' width='500' height='700'></a>
+			  <a href='http://www.elifemall.com.tw/allnewweb/product_d.php?skuno=2091286&scheduleno=20180628-20180705-1&showlist=Y&page='><img src='pic/07.jpg' width='500' height='700'></a>
 			  <div class='carousel-caption'>
 			  </div>
 			</div>
 			<div class='item'>
-			  <a href='http://www.elifemall.com.tw/allnewweb/product_d.php?skuno=2096093&scheduleno=20180628-20180705-1&showlist=Y&page='><img src='11.jpg' width='500' height='700'></a>
+			  <a href='http://www.elifemall.com.tw/allnewweb/product_d.php?skuno=2096093&scheduleno=20180628-20180705-1&showlist=Y&page='><img src='pic/11.jpg' width='500' height='700'></a>
 			  <div class='carousel-caption'>
 			  </div>
 			</div>
 			<div class='item'>
-			  <a href='http://www.elifemall.com.tw/allnewweb/product_d.php?skuno=2086719&scheduleno=20180628-20180705-1&showlist=Y&page='><img src='10.jpg' width='500' height='700'></a>
+			  <a href='http://www.elifemall.com.tw/allnewweb/product_d.php?skuno=2086719&scheduleno=20180628-20180705-1&showlist=Y&page='><img src='pic/10.jpg' width='500' height='700'></a>
 			  <div class='carousel-caption'>
 			  </div>
 			</div>
 			<div class='item'>
-			  <a href='http://www.elifemall.com.tw/allnewweb/product_d.php?skuno=2090482&scheduleno=20180628-20180705-1&showlist=Y&page='><img src='12.jpg' width='500' height='700'></a>
+			  <a href='http://www.elifemall.com.tw/allnewweb/product_d.php?skuno=2090482&scheduleno=20180628-20180705-1&showlist=Y&page='><img src='pic/12.jpg' width='500' height='700'></a>
 			  <div class='carousel-caption'>
 			  </div>
 			</div>
@@ -434,7 +434,7 @@ function log_in_home(){
 <style type='text/css'>
 
   .jumbotron{
-    background:url('login_bg.png');
+    background:url('pic/login_bg.png');
 	background-size: cover;
 	background-position: bottom right;
 	margin-bottom: 0px;
@@ -566,7 +566,7 @@ function register(){
     padding-bottom: 20px;
   }
   .jumbotron{
-    background:url('register_bg.png');
+    background:url('pic/register_bg.png');
   }
 </style>
 <!--引入JQuery CDN-->
