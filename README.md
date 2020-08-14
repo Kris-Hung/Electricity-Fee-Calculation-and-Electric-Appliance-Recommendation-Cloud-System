@@ -29,8 +29,8 @@ We fetched over one hundred thousand data containing ten categories from open go
 ## Screenshots
 * Home Page
 
-<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/home.png" width="250">
-
+<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/blob/master/screenshot/home.png" width="250">
+<img src="https://github.com/Kris-Hung/Pokemon_Jump/blob/master/pic/level%203.png" width="250">
 * Single electric appliance recommendation
 
 <img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/single.png" width="250">
