@@ -28,15 +28,19 @@ We fetched over one hundred thousand data containing ten categories from open go
 
 ## Screenshots
 * Home Page
+
 <img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/home.png" width="250">
 
 * Single electric appliance recommendation
+
 <img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/single.png" width="250">
 
 * Combinational electric appliance recommendation
+
 <img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/combination.png" width="250">
 
 * Electricity fee calculation form
+
 <img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/form.png" width="250">
 
 * Fee calculation result in three different kinds of chart
