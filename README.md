@@ -37,7 +37,7 @@ We fetched over one hundred thousand data containing ten categories from open go
 
 * Combinational electric appliance recommendation
 
-<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/tree/master/screenshot/combination.png" width="500">
+<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/blob/master/screenshot/combination.png" width="500">
 
 * Electricity fee calculation form
 
