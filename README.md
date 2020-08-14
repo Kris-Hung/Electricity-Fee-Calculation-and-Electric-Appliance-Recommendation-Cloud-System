@@ -3,7 +3,6 @@ This is a recommendation system helping you not only get the most suitable elect
 We fetched over one hundred thousand data containing ten categories from open government data.
 
 ## Introduction Video
-<a href="https://www.youtube.com/watch?v=r_pehYJlQKo"><img src="https://www.youtube.com/watch?v=r_pehYJlQKo/0.jpg" alt="IMAGE ALT TEXT"></a>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r_pehYJlQKo/0.jpg)](https://www.youtube.com/watch?v=r_pehYJlQKo)
 
 ## Installation
