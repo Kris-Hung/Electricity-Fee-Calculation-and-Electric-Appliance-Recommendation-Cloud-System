@@ -1,4 +1,4 @@
-# Electricity Fee Calculation and Electric Appliance RecommendatioSystem
+# Electricity Fee Calculation and Electric Appliance Recommendation System
 This is a recommendation system helping you not only get the most suitable electric appliance but also calculate electricity fee depending on different users’ needs.
 This system fetched over one hundred thousand data containing ten categories from open government data.
 
