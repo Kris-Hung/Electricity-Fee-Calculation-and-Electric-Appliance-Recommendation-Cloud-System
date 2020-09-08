@@ -1,6 +1,6 @@
 # Electricity Fee Calculation and Electric Appliance Recommendation Cloud System
 This is a recommendation system helping you not only get the most suitable electric appliance but also calculate electricity fee depending on different users’ needs.
-We fetched over one hundred thousand data containing ten categories from open government data.
+This system fetched over one hundred thousand data containing ten categories from open government data.
 
 ## Introduction Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r_pehYJlQKo/0.jpg)](https://www.youtube.com/watch?v=r_pehYJlQKo)
@@ -48,5 +48,3 @@ We fetched over one hundred thousand data containing ten categories from open go
 <img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/blob/master/screenshot/fee_bar.png" width="500">
 <img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/blob/master/screenshot/fee_annual.png" width="500">
 
-## Team
-Made by Faustine Chen, Jamie Su, Amy Lee and me :1
